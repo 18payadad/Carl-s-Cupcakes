@@ -1,0 +1,1 @@
+define(["jquery1102"],function(){window.jq=jq=jQuery.noConflict(true);return jq});

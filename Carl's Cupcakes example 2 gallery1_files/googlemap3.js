@@ -1,0 +1,1 @@
+define("googlemap3",["async!https://maps.googleapis.com/maps/api/js?v=3&libraries=places&key="+apiKey.Google+"&language="+app.lang],function(){return window.google.maps});
