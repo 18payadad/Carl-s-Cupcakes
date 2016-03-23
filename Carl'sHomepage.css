@@ -12,3 +12,8 @@
 	display: inline;
 	padding: 10px;
 }
+
+#logo {
+	position: relative;
+	left: 400px;
+}
