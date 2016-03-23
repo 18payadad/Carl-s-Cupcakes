@@ -1,4 +1,14 @@
 
  #menubar {
-	color: yellow;
+	
+	position: relative;
+	bottom: 100px;
+	font-size: 200%;
+	text-align: center;
+	color: #96F4FF;
+}
+
+#menubar li {
+	display: inline;
+	padding: 10px;
 }
